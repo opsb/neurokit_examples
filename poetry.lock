@@ -583,7 +583,7 @@ python-versions = ">=3.5"
 
 [[package]]
 name = "neurokit2"
-version = "0.1.5"
+version = "0.1.6"
 description = "The Python Toolbox for Neurophysiological Signal Processing."
 category = "main"
 optional = false
@@ -1132,7 +1132,7 @@ notebook = ">=4.4.1"
 [metadata]
 lock-version = "1.1"
 python-versions = "3.10.1"
-content-hash = "3f8b98243f1e0a5d2a1da6c4bfab80f43130b93a64e9df65fb113825323058a7"
+content-hash = "667c7f75b281c8a7a902e8c86cf293146032775cd778e5495877f142a7f52522"
 
 [metadata.files]
 appnope = [
@@ -1562,8 +1562,8 @@ nest-asyncio = [
     {file = "nest_asyncio-1.5.4.tar.gz", hash = "sha256:f969f6013a16fadb4adcf09d11a68a4f617c6049d7af7ac2c676110169a63abd"},
 ]
 neurokit2 = [
-    {file = "neurokit2-0.1.5-py2.py3-none-any.whl", hash = "sha256:863b59b1f2bf64d2604d12ef8075780c2c7d7b2a2513fad0e24e8a1190eaf5fb"},
-    {file = "neurokit2-0.1.5.tar.gz", hash = "sha256:4df48c0ce8971e32e32f36c2263986b00fd83da5eadaaa98e4bb5ab6bcd930e5"},
+    {file = "neurokit2-0.1.6-py2.py3-none-any.whl", hash = "sha256:1f7f2e68f5fcf218ab02feefd117d47880fe280d8c79da96519e0636c8f6ff24"},
+    {file = "neurokit2-0.1.6.tar.gz", hash = "sha256:47ff27109e6e4a67be13e2e3b8e8ad0db81bcb3bf709e706a35325c07ffdc60e"},
 ]
 notebook = [
     {file = "notebook-6.4.8-py3-none-any.whl", hash = "sha256:3e702fcc54b8ae597533c3864793b7a1e971dec9e112f67235828d8a798fd654"},
